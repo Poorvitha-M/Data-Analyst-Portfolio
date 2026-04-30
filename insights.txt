@@ -1,0 +1,5 @@
+1. Consumer segment has the highest number of customers.
+2. California has the highest customer count.
+3. Customer distribution varies across different states and cities.
+4. The dataset contains 793 customers.
+5. Data is clean with no missing values.
